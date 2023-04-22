@@ -6,3 +6,6 @@ In terms of implementation, the Smart Virtual Assistant likely makes use of vari
 To use this Smart Virtual Assistant, a user would likely need to install the necessary software on their device and then activate it using a voice command or other trigger. Once activated, the user can interact with the assistant using natural language commands and receive responses in real-time.
 
 Overall, this project has the potential to provide users with a powerful and convenient tool for managing their daily tasks and activities using voice commands and natural language interactions.
+
+Uses E-speak application for voice output.
+
